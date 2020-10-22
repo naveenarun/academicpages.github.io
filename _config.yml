@@ -86,7 +86,7 @@ author:
   location         : "Cambridge, MA"
   employer         : "MIT"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=b6gr9AEAAAAJ&hl=en"
   email            : "narunach@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

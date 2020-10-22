@@ -91,7 +91,7 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
-  codepen          :
+  codepen          : "narunach"
   dribbble         :
   flickr           :
   facebook         :
@@ -107,7 +107,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-9318-3595"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "6678310" # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 

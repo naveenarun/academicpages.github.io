@@ -53,7 +53,7 @@ Other interests
 Some cool stuff I've done
 ======
 * In high school I was a [TI-84](https://en.wikipedia.org/wiki/TI-84_Plus_series) nerd. My friends and I could always be found programming or making pixel art during class, and sometimes we'd program small games on our classmates' calculators.
-* I used to use the [Dvorak keyboard](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout), but no longer use it anymore.
+* I primarily used the [Dvorak keyboard](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) during high school. (I've switched back to QWERTY since then.)
 * I'm an alumnus of the [Summer Science Program](https://summerscience.org/), which I attended in 2013 at [New Mexico Tech](https://www.nmt.edu/).
 * I did an internship at [Kaneka Corp.](https://www.kaneka.co.jp/en/) in Japan through [Caltech's Japan Internship Program](https://www.hss.caltech.edu/academics/undergraduate-studies/japan-internship-program).
 * In undergrad, I was hired by [Doris Tsao's lab](https://www.tsaolab.caltech.edu/) to develop virtual reality software for mice and monkeys.

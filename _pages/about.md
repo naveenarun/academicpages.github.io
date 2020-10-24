@@ -70,6 +70,6 @@ Causes I care about
 
 Contact me
 =====
-If you would like a copy of my resume or CV, send me an email at [narunach@mit.edu](mailto:narunach@mit.edu). For inquiries related to Lendshift, please contact [narunach@trylendshift.com](mailto:narunach@trylendshift.com).
+If you would like a copy of my resume or CV, send me an email at [narunach@mit.edu](mailto:narunach@mit.edu). For questions related to Lendshift, please contact [narunach@trylendshift.com](mailto:narunach@trylendshift.com).
 
 I'm always down to chat! If there's anything you want to discuss, you can reach me at [narunach@mit.edu](mailto:narunach@mit.edu) or shoot me a message on [LinkedIn](https://www.linkedin.com/in/naveen-a-1075b998/).

@@ -46,7 +46,7 @@ Other interests
 * Though I'm not a huge fan of long-form reading, I'll [read a book from time to time](https://goodreads.com/narunach) - especially if I'm interested in the topic or if a friend recommends it. With that said, I tend to get most of my news and information from Reddit and [Hacker News](https://news.ycombinator.com/).
 * I enjoy arcade games and puzzles, and even speedrun a few. [Here's one of my best Tetris runs](https://jstris.jezevec10.com/replay/13112489), which placed me into the world leaderboard (top 1000) in 2020.
 * I like to volunteer. I see it as a great way to socialize while doing some good for the world. My favorite activities so far include teaching math to elementary schoolers through the [Cambridge School Volunteers](https://www.csvinc.org/) and preparing food at [Community Servings](https://www.csvinc.org/) with fellow MIT students.
-* My favorite music generally alternates between Kpop, 2000's trash, or almost anything from [CloudKid](https://www.youtube.com/channel/UCSa8IUd1uEjlREMa21I3ZPQ).
+* My favorite music generally alternates between Kpop, 2000's trash, or almost anything from [CloudKid](https://open.spotify.com/playlist/5xoeDi8mJUDwyRZtiFNZ2X?si=HPmKG8SyTG2GtC-AxWi93Q).
 * I enjoy long, meaningless conversations with friends and strangers.
    * I have strong opinions on a ton of things, and I always enjoy discussing said things. Ask me about: Indian-American/Asian-American issues, politics, meritocracy, religion, dating (not much experience there but I'll talk about it 😛), minimalism, or technology.
 

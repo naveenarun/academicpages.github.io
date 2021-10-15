@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+redirect_to: "https://naveenarun.github.io"
+
 ---
 Hi! Welcome to my corner of the  internet.
 
